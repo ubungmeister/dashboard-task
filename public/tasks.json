@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "title": "Fix login bug",
+      "description": "Users are unable to log in with their email.",
+      "priority": "High",
+      "status": "To Do"
+    },
+    {
+      "id": 2,
+      "title": "Design homepage banner",
+      "description": "Create a new promotional banner for the homepage.",
+      "priority": "Medium",
+      "status": "In Progress"
+    },
+    {
+      "id": 3,
+      "title": "Database backup",
+      "description": "Schedule a daily backup for production database.",
+      "priority": "Low",
+      "status": "Done"
+    },
+    {
+      "id": 4,
+      "title": "Refactor API calls",
+      "description": "Optimize API calls to reduce latency.",
+      "priority": "High",
+      "status": "To Do"
+    },
+    {
+      "id": 5,
+      "title": "Write unit tests",
+      "description": "Increase test coverage for critical components.",
+      "priority": "Medium",
+      "status": "In Progress"
+    },
+    {
+      "id": 6,
+      "title": "Update dependencies",
+      "description": "Upgrade all npm dependencies to latest versions.",
+      "priority": "Low",
+      "status": "Done"
+    }
+  ]
+  
